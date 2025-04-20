@@ -1,4 +1,4 @@
-# comp3314-ML-CIFAR10
+# COMP3314-ML-CIFAR10
 The code and the report for HKU COMP3314 image classification Kaggle contest. \
 Author: Huang Junran*, Sun Xueli*, Zhen Qi*
 
